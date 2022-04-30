@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e29a4548-536d-4ad4-b68b-c4a6560de935" name="Changes" comment="新增說明影片連結" />
+    <list default="true" id="e29a4548-536d-4ad4-b68b-c4a6560de935" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/conn_oracle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebs/E2W_barcode.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebs/e2w_barcode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebs/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebs/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mock_wms/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/mock_wms/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/celeryconfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/celeryconfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/e2w_pcom.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/e2w_pcom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/wms/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmsapi.log" beforeDir="false" afterPath="$PROJECT_DIR$/wmsapi.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +29,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Setup Script" />
-        <option value="Python Script" />
         <option value="package.json" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -23,7 +41,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="289UML3y0K0wzzdQJgk5U0mvxBS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,16 +52,43 @@
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/py/wmsapi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\py\wmsapi" />
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/wms" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.run">
+    <configuration name="e2w_pcom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wmsapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks/e2w_pcom.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="wmsapi" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,9 +111,65 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in e2w_barcode.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="wmsapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ebs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ebs/e2w_barcode.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in e2w_pcom.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="wmsapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tasks/e2w_pcom.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_tasks.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="wmsapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_tasks.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.e2w_pcom" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python tests.Python tests in e2w_barcode.py" />
+      <item itemvalue="Python tests.Python tests in e2w_pcom.py" />
+      <item itemvalue="Python tests.Python tests in test_tasks.py" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.run" />
+        <item itemvalue="Python tests.Python tests in test_tasks.py" />
+        <item itemvalue="Python tests.Python tests in e2w_pcom.py" />
+        <item itemvalue="Python tests.Python tests in e2w_barcode.py" />
+        <item itemvalue="Python.e2w_pcom" />
       </list>
     </recent_temporary>
   </component>
@@ -92,7 +195,7 @@
       <workItem from="1650854079018" duration="6668000" />
       <workItem from="1650876278093" duration="2645000" />
       <workItem from="1651020633603" duration="5309000" />
-      <workItem from="1651282661265" duration="136000" />
+      <workItem from="1651282661265" duration="37567000" />
     </task>
     <task id="LOCAL-00001" summary="init.">
       <created>1650811350270</created>
@@ -115,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650869034131</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="新增說明影片連結">
+      <created>1651282951899</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651282951899</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,8 +252,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="新增說明影片連結" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/WmsAPI$e2w_pcom.coverage" NAME="e2w_pcom Coverage Results" MODIFIED="1650858642961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tasks" />
+    <SUITE FILE_PATH="coverage/wmsapi$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1651325648135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mock_wms" />
+    <SUITE FILE_PATH="coverage/wmsapi$models.coverage" NAME="models Coverage Results" MODIFIED="1651309109554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ebs" />
     <SUITE FILE_PATH="coverage/WmsAPI$.coverage" NAME=" Coverage Results" MODIFIED="1650858183867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wmsapi$main.coverage" NAME="main Coverage Results" MODIFIED="1651322528724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wms" />
+    <SUITE FILE_PATH="coverage/wmsapi$conn_oracle.coverage" NAME="conn_oracle Coverage Results" MODIFIED="1651306603573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wmsapi$e2w_pcom.coverage" NAME="e2w_pcom Coverage Results" MODIFIED="1651327977578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tasks" />
+    <SUITE FILE_PATH="coverage/wmsapi$.coverage" NAME=" Coverage Results" MODIFIED="1651330519338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/wmsapi$celeryconfig.coverage" NAME="celeryconfig Coverage Results" MODIFIED="1651324987307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tasks" />
+    <SUITE FILE_PATH="coverage/wmsapi$run.coverage" NAME="run Coverage Results" MODIFIED="1651330697042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WmsAPI$e2w_pcom.coverage" NAME="e2w_pcom Coverage Results" MODIFIED="1650858642961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tasks" />
     <SUITE FILE_PATH="coverage/WmsAPI$run.coverage" NAME="run Coverage Results" MODIFIED="1651022855616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wmsapi$e2w_barcode.coverage" NAME="e2w_barcode Coverage Results" MODIFIED="1651327606578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ebs" />
+    <SUITE FILE_PATH="coverage/wmsapi$database.coverage" NAME="database Coverage Results" MODIFIED="1651316430088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wmsapi$database1.coverage" NAME="database1 Coverage Results" MODIFIED="1651296582931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

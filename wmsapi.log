@@ -11,3 +11,142 @@
 2022-04-30 09:40:58,193 INFO: Application shutdown complete.
 2022-04-30 09:40:58,193 INFO: Finished server process [7312]
 2022-04-30 09:40:58,366 INFO: Stopping reloader process [8660]
+2022-04-30 09:57:25,311 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-04-30 09:57:25,326 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-04-30 09:57:25,326 INFO: Started reloader process [16360] using statreload
+2022-04-30 09:57:29,292 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 09:57:29,292 DEBUG: Using selector: SelectSelector
+2022-04-30 09:57:29,371 INFO: Started server process [3192]
+2022-04-30 09:57:29,371 INFO: Waiting for application startup.
+2022-04-30 09:57:29,371 INFO: Application startup complete.
+2022-04-30 10:00:34,410 WARNING: StatReload detected file change in 'tasks\models.py'. Reloading...
+2022-04-30 10:00:46,240 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 10:00:46,240 DEBUG: Using selector: SelectSelector
+2022-04-30 10:00:46,381 INFO: Started server process [7460]
+2022-04-30 10:00:46,381 INFO: Waiting for application startup.
+2022-04-30 10:00:46,381 INFO: Application startup complete.
+2022-04-30 10:01:41,188 WARNING: StatReload detected file change in 'tasks\models.py'. Reloading...
+2022-04-30 10:01:50,182 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 10:01:50,182 DEBUG: Using selector: SelectSelector
+2022-04-30 10:01:50,292 INFO: Started server process [6516]
+2022-04-30 10:01:50,292 INFO: Waiting for application startup.
+2022-04-30 10:01:50,292 INFO: Application startup complete.
+2022-04-30 10:23:24,694 WARNING: StatReload detected file change in 'tasks\models.py'. Reloading...
+2022-04-30 10:23:35,821 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 10:23:35,834 DEBUG: Using selector: SelectSelector
+2022-04-30 10:23:35,982 INFO: Started server process [12324]
+2022-04-30 10:23:35,983 INFO: Waiting for application startup.
+2022-04-30 10:23:35,984 INFO: Application startup complete.
+2022-04-30 10:42:32,066 WARNING: StatReload detected file change in 'database1.py'. Reloading...
+2022-04-30 10:42:39,965 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 10:42:39,965 DEBUG: Using selector: SelectSelector
+2022-04-30 10:42:40,210 INFO: Started server process [14236]
+2022-04-30 10:42:40,211 INFO: Waiting for application startup.
+2022-04-30 10:42:40,211 INFO: Application startup complete.
+2022-04-30 10:43:19,157 WARNING: StatReload detected file change in 'database1.py'. Reloading...
+2022-04-30 10:43:25,651 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 10:43:25,666 DEBUG: Using selector: SelectSelector
+2022-04-30 10:43:25,745 INFO: Started server process [15692]
+2022-04-30 10:43:25,745 INFO: Waiting for application startup.
+2022-04-30 10:43:25,745 INFO: Application startup complete.
+2022-04-30 10:43:47,128 INFO: Shutting down
+2022-04-30 10:43:47,175 INFO: Stopping reloader process [16360]
+2022-04-30 21:34:43,839 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-04-30 21:34:43,839 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-04-30 21:34:43,839 INFO: Started reloader process [6628] using statreload
+2022-04-30 21:34:47,459 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 21:34:47,459 DEBUG: Using selector: SelectSelector
+2022-04-30 21:34:47,600 INFO: Started server process [6896]
+2022-04-30 21:34:47,600 INFO: Waiting for application startup.
+2022-04-30 21:34:47,600 INFO: Application startup complete.
+2022-04-30 21:35:35,178 INFO: Stopping reloader process [6628]
+2022-04-30 21:54:39,972 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-04-30 21:54:39,972 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-04-30 21:54:39,972 INFO: Started reloader process [8880] using statreload
+2022-04-30 21:54:43,120 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 21:54:43,120 DEBUG: Using selector: SelectSelector
+2022-04-30 21:54:43,246 INFO: Started server process [17848]
+2022-04-30 21:54:43,246 INFO: Waiting for application startup.
+2022-04-30 21:54:43,246 INFO: Application startup complete.
+2022-04-30 21:55:51,922 INFO: Shutting down
+2022-04-30 21:55:52,032 INFO: Waiting for application shutdown.
+2022-04-30 21:55:52,032 INFO: Application shutdown complete.
+2022-04-30 21:55:52,032 INFO: Finished server process [17848]
+2022-04-30 21:55:52,566 INFO: Stopping reloader process [8880]
+2022-04-30 21:57:26,672 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-04-30 21:57:26,672 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-04-30 21:57:26,672 INFO: Started reloader process [18376] using statreload
+2022-04-30 21:57:29,558 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 21:57:29,558 DEBUG: Using selector: SelectSelector
+2022-04-30 21:57:29,621 INFO: Started server process [2092]
+2022-04-30 21:57:29,621 INFO: Waiting for application startup.
+2022-04-30 21:57:29,621 INFO: Application startup complete.
+2022-04-30 22:05:37,273 WARNING: StatReload detected file change in 'ebs\e2w_barcode.py'. Reloading...
+2022-04-30 22:05:46,501 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 22:05:46,503 DEBUG: Using selector: SelectSelector
+2022-04-30 22:05:46,628 INFO: Started server process [4852]
+2022-04-30 22:05:46,631 INFO: Waiting for application startup.
+2022-04-30 22:05:46,632 INFO: Application startup complete.
+2022-04-30 22:11:10,789 WARNING: StatReload detected file change in 'tasks\e2w_pcom.py'. Reloading...
+2022-04-30 22:11:16,404 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 22:11:16,404 DEBUG: Using selector: SelectSelector
+2022-04-30 22:11:16,498 INFO: Started server process [9040]
+2022-04-30 22:11:16,498 INFO: Waiting for application startup.
+2022-04-30 22:11:16,498 INFO: Application startup complete.
+2022-04-30 22:12:25,833 WARNING: StatReload detected file change in 'tasks\e2w_pcom.py'. Reloading...
+2022-04-30 22:12:31,683 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 22:12:31,683 DEBUG: Using selector: SelectSelector
+2022-04-30 22:12:31,840 INFO: Started server process [17492]
+2022-04-30 22:12:31,840 INFO: Waiting for application startup.
+2022-04-30 22:12:31,840 INFO: Application startup complete.
+2022-04-30 22:12:57,688 WARNING: StatReload detected file change in 'tasks\e2w_pcom.py'. Reloading...
+2022-04-30 22:13:01,956 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 22:13:01,956 DEBUG: Using selector: SelectSelector
+2022-04-30 22:13:02,019 INFO: Started server process [6140]
+2022-04-30 22:13:02,019 INFO: Waiting for application startup.
+2022-04-30 22:13:02,019 INFO: Application startup complete.
+2022-04-30 22:16:11,603 WARNING: StatReload detected file change in 'ebs\e2w_barcode.py'. Reloading...
+2022-04-30 22:16:17,455 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 22:16:17,455 DEBUG: Using selector: SelectSelector
+2022-04-30 22:16:17,640 INFO: Started server process [9036]
+2022-04-30 22:16:17,640 INFO: Waiting for application startup.
+2022-04-30 22:16:17,644 INFO: Application startup complete.
+2022-04-30 22:17:01,055 WARNING: StatReload detected file change in 'ebs\e2w_barcode.py'. Reloading...
+2022-04-30 22:17:06,432 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 22:17:06,432 DEBUG: Using selector: SelectSelector
+2022-04-30 22:17:06,495 INFO: Started server process [1648]
+2022-04-30 22:17:06,495 INFO: Waiting for application startup.
+2022-04-30 22:17:06,495 INFO: Application startup complete.
+2022-04-30 22:17:50,126 WARNING: StatReload detected file change in 'ebs\e2w_barcode.py'. Reloading...
+2022-04-30 22:17:55,378 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 22:17:55,378 DEBUG: Using selector: SelectSelector
+2022-04-30 22:17:55,456 INFO: Started server process [9284]
+2022-04-30 22:17:55,456 INFO: Waiting for application startup.
+2022-04-30 22:17:55,456 INFO: Application startup complete.
+2022-04-30 22:18:21,945 WARNING: StatReload detected file change in 'ebs\e2w_barcode.py'. Reloading...
+2022-04-30 22:18:25,862 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 22:18:25,862 DEBUG: Using selector: SelectSelector
+2022-04-30 22:18:25,925 INFO: Started server process [6832]
+2022-04-30 22:18:25,925 INFO: Waiting for application startup.
+2022-04-30 22:18:25,925 INFO: Application startup complete.
+2022-04-30 22:19:21,727 WARNING: StatReload detected file change in 'ebs\e2w_barcode.py'. Reloading...
+2022-04-30 22:19:25,970 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 22:19:25,970 DEBUG: Using selector: SelectSelector
+2022-04-30 22:19:26,033 INFO: Started server process [17796]
+2022-04-30 22:19:26,033 INFO: Waiting for application startup.
+2022-04-30 22:19:26,033 INFO: Application startup complete.
+2022-04-30 22:49:35,547 INFO: Shutting down
+2022-04-30 22:49:35,797 INFO: Stopping reloader process [18376]
+2022-04-30 22:58:21,153 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-04-30 22:58:21,153 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-04-30 22:58:21,153 INFO: Started reloader process [8516] using statreload
+2022-04-30 22:58:25,816 WARNING: The --reload flag should not be used in production on Windows.
+2022-04-30 22:58:25,816 DEBUG: Using selector: SelectSelector
+2022-04-30 22:58:25,910 INFO: Started server process [17448]
+2022-04-30 22:58:25,910 INFO: Waiting for application startup.
+2022-04-30 22:58:25,910 INFO: Application startup complete.
+2022-04-30 22:59:43,039 INFO: Shutting down
+2022-04-30 22:59:43,164 INFO: Waiting for application shutdown.
+2022-04-30 22:59:43,164 INFO: Application shutdown complete.
+2022-04-30 22:59:43,164 INFO: Finished server process [17448]
+2022-04-30 22:59:43,337 INFO: Stopping reloader process [8516]

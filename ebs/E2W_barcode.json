@@ -1,0 +1,21 @@
+{
+    "Message": {
+        "Header": {
+            "UUID": "UUID",
+            "EventID": "E2W_Barcode",
+            "Direction": "Primary",
+            "SystemID": "ERP"
+        },
+        "Body": {
+            "BarcodeInfo": [
+                {
+                    "id_owner": "id_owner",
+                    "cod_item": "cod_item",
+                    "barcode": "barcode",
+                    "sts_edit": "sts_edit",
+                    "dat_create": "dat_create"
+                }
+            ]
+        }
+    }
+}

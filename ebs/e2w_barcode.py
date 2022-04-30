@@ -1,0 +1,75 @@
+import json
+import uuid
+import requests
+from sqlalchemy import select
+from app_celery import celery
+from database import erp_Session
+from .models import barCode
+
+session = erp_Session()
+
+def test_session():
+    rows = session.query(barCode)
+    for row in rows:
+        print(row.cod_item)
+
+def post_e2w_barcode(message, url):
+    response = requests.post(
+                   url,
+                   data=json.dumps(message),
+                   headers={
+                       "Content-Type": "application/json",
+                       "Authorization": "XXX"
+                   }
+               )
+    response = response.json()
+    return response
+
+def get_message():
+    req_uuid = str(uuid.uuid4())
+    header = {
+        "UUID": req_uuid,
+        "EventID": "E2W_Barcode",
+        "Direction": "Primary",
+        "SystemID": "ERP"
+    }
+
+    BarcodeInfo = []
+
+    rows = session.query(barCode)
+    for row in rows:
+        dict_BarcodeInfo = {
+            "id_owner": row.id_owner,
+            "cod_item": row.cod_item,
+            "barcode":  row.barcode,
+            "sts_edit": row.sts_edit,
+            "dat_create": row.dat_create
+        }
+
+        BarcodeInfo.append(dict_BarcodeInfo)
+
+    _message = {
+        "Message": {
+            "Header": header,
+            "Body": {
+                "BarcodeInfo": BarcodeInfo
+            }
+        }
+    }
+    print(json.dumps(_message))
+    return _message
+
+@celery.task(name='e2w_barcode')
+def task_e2w_barcode():
+    wms_url = "http://127.0.0.1:8000/mock_wms"
+    url = wms_url + "/E2W_Barcode/"
+    message = get_message()
+    response = post_e2w_barcode(message, url)
+    return response
+
+if __name__ == '__main__':
+    result = task_e2w_barcode()
+    print(result)
+    #print(type(result))
+    # test_session()
+    # get_message()

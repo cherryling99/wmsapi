@@ -2,7 +2,6 @@ from fastapi import APIRouter
 
 app = APIRouter()
 
-
 @app.post("/E2W_Pcom/")
 async def e2w_pcom(message: dict):
     result = {
@@ -24,6 +23,27 @@ async def e2w_pcom(message: dict):
 
     return result
 
+
+@app.post("/E2W_Barcode/")
+async def e2w_barcode(message: dict):
+    result = {
+        "Message": {
+            "Header": {
+                "UUID": "UUID",
+                "EventID": "E2W_Barcode",
+                "Direction": "Secondary",
+                "SystemID": "WMS"
+            },
+            "Body": {
+                "ResultInfo": {
+                    "Result": "Result",
+                    "ResultMessage": "ResultMessage"
+                }
+            }
+        }
+    }
+
+    return result
 
 @app.get("/")
 async def root():

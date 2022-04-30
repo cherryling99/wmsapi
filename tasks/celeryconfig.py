@@ -4,6 +4,7 @@ from celery.schedules import crontab
 imports = (
     'tasks.add',
     "tasks.e2w_pcom"
+    "tasks.e2w_barcode"
     )
 
 # #Timezone
@@ -35,6 +36,10 @@ beat_schedule = {
     },
     'e2w_pcom run every 60 seconds': {
         'task': 'e2w_pcom',
+        'schedule': c1
+    },
+    'e2w_barcode run every 60 seconds': {
+        'task': 'e2w_barcode',
         'schedule': c1
     }
 }
