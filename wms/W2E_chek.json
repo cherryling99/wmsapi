@@ -1,0 +1,32 @@
+{
+	"Message": {
+		"Header": {
+			"UUID": "UUID",
+			"EventID": "E2W_Pcom",
+			"Direction": "Primary",
+			"SystemID": "ERP"
+		},
+		"Body": {
+			"chekInfo": [
+				{
+					"id_owner": "id_owner",
+					"id_sub": "id_sub",
+					"dat_chk": "dat_chk",
+					"num_chk": "num_chk",
+					"no_ser": "no_ser",
+					"cod_loc": "cod_loc",
+					"type_adj": "type_adj",
+					"cod_item": "cod_item",
+					"qty_stk": "qty_stk",
+					"qty_chk": "qty_chk",
+					"unt_stk": "unt_stk",
+					"ser_pcs_stk": "ser_pcs_stk",
+					"dat_expiry_stk": "dat_expiry_stk",
+					"ser_pcs_chk": "ser_pcs_chk",
+					"dat_expiry_chk": "dat_expiry_chk",
+					"type_error": "type_error"
+				}
+			]
+		}
+	}
+}
