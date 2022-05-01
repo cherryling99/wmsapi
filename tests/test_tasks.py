@@ -4,6 +4,7 @@ from sqlalchemy import select
 from database import SessionLocal
 from tasks.models import PackingModel, PackingLineModel
 from tasks.e2w_pcom import task_e2w_pcom
+from tasks.e2w_barcode import task_e2w_barcode
 
 client = TestClient(app)
 session = SessionLocal()
@@ -22,5 +23,10 @@ def test_session():
 def test_task_e2w_pcom():
     result = task_e2w_pcom()
     assert type(result) == dict
+
+def test_task_e2w_barcode():
+    result = task_e2w_barcode()
+    assert type(result) == dict
+
 
 

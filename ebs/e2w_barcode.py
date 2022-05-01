@@ -1,17 +1,11 @@
 import json
 import uuid
 import requests
-from sqlalchemy import select
 from app_celery import celery
 from database import erp_Session
 from .models import barCode
 
 session = erp_Session()
-
-def test_session():
-    rows = session.query(barCode)
-    for row in rows:
-        print(row.cod_item)
 
 def post_e2w_barcode(message, url):
     response = requests.post(

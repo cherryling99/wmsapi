@@ -7,15 +7,6 @@ from .models import PackingModel, PackingLineModel
 
 session = SessionLocal()
 
-
-def test_session():
-    stmt = select(PackingModel.uuid, PackingLineModel.id).join(PackingModel.lines) .order_by(PackingLineModel.id.desc())
-    print(stmt)
-    rows = session.execute(stmt)
-    for row in rows:
-        print(f"{row.uuid}          {row.id}")
-
-
 def post_e2w_pcom(message, url):
     response = requests.post(
                    url,
@@ -73,7 +64,7 @@ def get_message():
             }
         }
     }
-    # print(json.dumps(_message))
+    print(json.dumps(_message))
     return _message
 
 

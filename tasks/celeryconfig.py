@@ -3,7 +3,7 @@ from celery.schedules import crontab
 # import tasks
 imports = (
     'tasks.add',
-    "tasks.e2w_pcom"
+    "tasks.e2w_pcom",
     "tasks.e2w_barcode"
     )
 
