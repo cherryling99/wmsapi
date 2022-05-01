@@ -1,7 +1,6 @@
 import json
 import uuid
 import requests
-from app_celery import celery
 from database import erp_Session
 from .models import barCode
 
@@ -42,7 +41,7 @@ def get_message():
 
         BarcodeInfo.append(dict_BarcodeInfo)
 
-    _message = {
+    message = {
         "Message": {
             "Header": header,
             "Body": {
@@ -50,20 +49,20 @@ def get_message():
             }
         }
     }
-    print(json.dumps(_message))
-    return _message
+    # print(json.dumps(message))
+    return message
 
-@celery.task(name='e2w_barcode')
 def task_e2w_barcode():
-    wms_url = "http://127.0.0.1:8000/mock_wms"
+    wms_url = "http://127.0.0.1:8000/sium"
     url = wms_url + "/E2W_Barcode/"
     message = get_message()
     response = post_e2w_barcode(message, url)
     return response
 
 if __name__ == '__main__':
-    result = task_e2w_barcode()
-    print(result)
+    # result = task_e2w_barcode()
+    # print(result)
     #print(type(result))
     # test_session()
-    # get_message()
+    message = get_message()
+    print(message)

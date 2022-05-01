@@ -1,14 +1,12 @@
 from fastapi.testclient import TestClient
 from run import app
 from sqlalchemy import select
-from database import SessionLocal
+from database import SessionLocal,erp_Session
 from tasks.models import PackingModel, PackingLineModel
 from tasks.e2w_pcom import task_e2w_pcom
-from tasks.e2w_barcode import task_e2w_barcode
+from ebs.e2w_barcode import task_e2w_barcode
 
-client = TestClient(app)
-session = SessionLocal()
-
+session = SessionLocal();
 
 def test_session():
     stmt = select(PackingModel.uuid, PackingLineModel.id).join(PackingModel.lines) .order_by(PackingLineModel.id.desc())

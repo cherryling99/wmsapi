@@ -4,7 +4,7 @@ from celery.schedules import crontab
 imports = (
     'tasks.add',
     "tasks.e2w_pcom",
-    "tasks.e2w_barcode"
+    "ebs.e2w_barcode"
     )
 
 # #Timezone

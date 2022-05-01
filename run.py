@@ -5,6 +5,8 @@ import os
 import logging
 import uvicorn
 from fastapi import FastAPI
+from ebs import app_ebs
+from sium import app_sium
 from wms import app_wms
 from mock_wms import app_mock_wms
 
@@ -21,8 +23,10 @@ app = FastAPI(
     redoc_url='/redocs',
 )
 
-app.include_router(app_wms, prefix='/wms', tags=['WMS API'])
-app.include_router(app_mock_wms, prefix='/mock_wms', tags=['模擬wmsAPI'])
+app.include_router(app_ebs, prefix='/ebs', tags=['EBS->WMS API'])
+app.include_router(app_wms, prefix='/wms', tags=['WMS->EBS API'])
+app.include_router(app_sium, prefix='/sium', tags=['模擬WMS API'])
+# app.include_router(app_mock_wms, prefix='/mock_wms', tags=['模擬wmsAPI'])
 
 if __name__ == '__main__':
     if os.getenv('MODE') == "development":

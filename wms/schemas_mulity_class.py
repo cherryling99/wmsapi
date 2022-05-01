@@ -1,13 +1,11 @@
 from typing import List, Optional
 from pydantic import BaseModel
 
-
 class Header(BaseModel):
     UUID: str
     EventID: str
     Direction: str
     SystemID: str
-
 
 class W2eChekChekInfo(BaseModel):
     id_owner: str
@@ -27,10 +25,8 @@ class W2eChekChekInfo(BaseModel):
     dat_expiry_chk: str
     type_error: Optional[str] = None
 
-
 class W2eChekBody(BaseModel):
     chekInfo: List[W2eChekChekInfo]
-
 
 class W2eChekInnerMessage(BaseModel):
     Header: Header

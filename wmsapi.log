@@ -196,3 +196,927 @@
 2022-05-01 11:51:56,158 INFO: Started server process [11356]
 2022-05-01 11:51:56,158 INFO: Waiting for application startup.
 2022-05-01 11:51:56,158 INFO: Application startup complete.
+2022-05-01 11:54:46,476 WARNING: StatReload detected file change in 'tests\test_tasks.py'. Reloading...
+2022-05-01 11:54:50,292 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 11:54:50,307 DEBUG: Using selector: SelectSelector
+2022-05-01 11:54:50,425 INFO: Started server process [15276]
+2022-05-01 11:54:50,425 INFO: Waiting for application startup.
+2022-05-01 11:54:50,425 INFO: Application startup complete.
+2022-05-01 11:55:31,742 WARNING: StatReload detected file change in 'tests\test_tasks.py'. Reloading...
+2022-05-01 11:55:35,054 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 11:55:35,054 DEBUG: Using selector: SelectSelector
+2022-05-01 11:55:35,148 INFO: Started server process [17776]
+2022-05-01 11:55:35,148 INFO: Waiting for application startup.
+2022-05-01 11:55:35,148 INFO: Application startup complete.
+2022-05-01 11:57:05,650 WARNING: StatReload detected file change in 'tests\test_tasks.py'. Reloading...
+2022-05-01 11:57:09,097 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 11:57:09,113 DEBUG: Using selector: SelectSelector
+2022-05-01 11:57:09,175 INFO: Started server process [15612]
+2022-05-01 11:57:09,175 INFO: Waiting for application startup.
+2022-05-01 11:57:09,175 INFO: Application startup complete.
+2022-05-01 11:58:11,007 WARNING: StatReload detected file change in 'tests\test_tasks.py'. Reloading...
+2022-05-01 11:58:14,474 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 11:58:14,474 DEBUG: Using selector: SelectSelector
+2022-05-01 11:58:14,536 INFO: Started server process [5940]
+2022-05-01 11:58:14,536 INFO: Waiting for application startup.
+2022-05-01 11:58:14,545 INFO: Application startup complete.
+2022-05-01 11:59:38,138 WARNING: StatReload detected file change in 'tests\test_tasks.py'. Reloading...
+2022-05-01 11:59:41,309 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 11:59:41,309 DEBUG: Using selector: SelectSelector
+2022-05-01 11:59:41,372 INFO: Started server process [8124]
+2022-05-01 11:59:41,372 INFO: Waiting for application startup.
+2022-05-01 11:59:41,372 INFO: Application startup complete.
+2022-05-01 11:59:50,678 INFO: Shutting down
+2022-05-01 11:59:50,709 INFO: Stopping reloader process [5656]
+2022-05-01 12:00:45,371 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 12:00:45,371 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 12:00:45,371 INFO: Started reloader process [14272] using statreload
+2022-05-01 12:00:48,464 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 12:00:48,464 DEBUG: Using selector: SelectSelector
+2022-05-01 12:00:48,511 INFO: Started server process [4436]
+2022-05-01 12:00:48,511 INFO: Waiting for application startup.
+2022-05-01 12:00:48,511 INFO: Application startup complete.
+2022-05-01 12:02:27,231 WARNING: StatReload detected file change in 'tests\test_tasks.py'. Reloading...
+2022-05-01 12:02:30,258 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 12:02:30,258 DEBUG: Using selector: SelectSelector
+2022-05-01 12:02:30,297 INFO: Started server process [11064]
+2022-05-01 12:02:30,297 INFO: Waiting for application startup.
+2022-05-01 12:02:30,313 INFO: Application startup complete.
+2022-05-01 12:03:20,880 INFO: Shutting down
+2022-05-01 12:03:20,990 INFO: Waiting for application shutdown.
+2022-05-01 12:03:20,990 INFO: Application shutdown complete.
+2022-05-01 12:03:20,990 INFO: Finished server process [11064]
+2022-05-01 12:03:21,178 INFO: Stopping reloader process [14272]
+2022-05-01 12:03:26,145 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 12:03:26,145 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 12:03:26,145 INFO: Started reloader process [9616] using statreload
+2022-05-01 12:03:29,236 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 12:03:29,236 DEBUG: Using selector: SelectSelector
+2022-05-01 12:03:29,315 INFO: Started server process [4552]
+2022-05-01 12:03:29,315 INFO: Waiting for application startup.
+2022-05-01 12:03:29,315 INFO: Application startup complete.
+2022-05-01 12:04:37,494 INFO: Stopping reloader process [9616]
+2022-05-01 12:57:42,316 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 12:57:42,316 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 12:57:42,316 INFO: Started reloader process [14456] using statreload
+2022-05-01 12:57:45,804 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 12:57:45,804 DEBUG: Using selector: SelectSelector
+2022-05-01 12:57:45,898 INFO: Started server process [13572]
+2022-05-01 12:57:45,898 INFO: Waiting for application startup.
+2022-05-01 12:57:45,898 INFO: Application startup complete.
+2022-05-01 13:14:29,097 INFO: Shutting down
+2022-05-01 13:14:29,222 INFO: Waiting for application shutdown.
+2022-05-01 13:14:29,222 INFO: Application shutdown complete.
+2022-05-01 13:14:29,222 INFO: Finished server process [13572]
+2022-05-01 13:14:30,165 INFO: Stopping reloader process [14456]
+2022-05-01 13:23:29,555 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 13:23:29,566 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 13:23:29,566 INFO: Started reloader process [13868] using statreload
+2022-05-01 13:23:34,093 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 13:23:34,093 DEBUG: Using selector: SelectSelector
+2022-05-01 13:23:34,219 INFO: Started server process [18088]
+2022-05-01 13:23:34,219 INFO: Waiting for application startup.
+2022-05-01 13:23:34,219 INFO: Application startup complete.
+2022-05-01 13:26:14,231 WARNING: StatReload detected file change in 'ebs\e2w_barcode.py'. Reloading...
+2022-05-01 13:26:19,756 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 13:26:19,772 DEBUG: Using selector: SelectSelector
+2022-05-01 13:26:19,882 INFO: Started server process [11640]
+2022-05-01 13:26:19,882 INFO: Waiting for application startup.
+2022-05-01 13:26:19,882 INFO: Application startup complete.
+2022-05-01 13:29:09,287 INFO: Shutting down
+2022-05-01 13:29:09,397 INFO: Waiting for application shutdown.
+2022-05-01 13:29:09,403 INFO: Application shutdown complete.
+2022-05-01 13:29:09,403 INFO: Finished server process [11640]
+2022-05-01 13:29:09,633 INFO: Stopping reloader process [13868]
+2022-05-01 13:29:36,742 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 13:29:36,758 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 13:29:36,758 INFO: Started reloader process [7864] using statreload
+2022-05-01 13:29:42,520 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 13:29:42,520 DEBUG: Using selector: SelectSelector
+2022-05-01 13:29:42,615 INFO: Started server process [10852]
+2022-05-01 13:29:42,615 INFO: Waiting for application startup.
+2022-05-01 13:29:42,615 INFO: Application startup complete.
+2022-05-01 13:35:19,934 INFO: Shutting down
+2022-05-01 13:35:20,045 INFO: Waiting for application shutdown.
+2022-05-01 13:35:20,045 INFO: Application shutdown complete.
+2022-05-01 13:35:20,045 INFO: Finished server process [10852]
+2022-05-01 13:35:21,073 INFO: Stopping reloader process [7864]
+2022-05-01 17:50:37,366 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 17:50:37,366 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 17:50:37,366 INFO: Started reloader process [14968] using statreload
+2022-05-01 17:50:40,677 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 17:50:40,693 DEBUG: Using selector: SelectSelector
+2022-05-01 17:50:40,834 INFO: Started server process [18260]
+2022-05-01 17:50:40,834 INFO: Waiting for application startup.
+2022-05-01 17:50:40,834 INFO: Application startup complete.
+2022-05-01 17:55:57,006 ERROR: Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 96, in __call__
+    raise exc from None
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 93, in __call__
+    await self.app(scope, receive, inner_send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\applications.py", line 261, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\py\wmsapi\ebs\main.py", line 19, in e2w_barcode
+    if x_token != secret_token:
+NameError: name 'x_token' is not defined
+2022-05-01 17:57:02,367 INFO: Shutting down
+2022-05-01 17:57:02,476 INFO: Waiting for application shutdown.
+2022-05-01 17:57:02,476 INFO: Application shutdown complete.
+2022-05-01 17:57:02,476 INFO: Finished server process [18260]
+2022-05-01 17:57:02,539 INFO: Stopping reloader process [14968]
+2022-05-01 18:09:54,683 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 18:09:54,683 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 18:09:54,683 INFO: Started reloader process [5432] using statreload
+2022-05-01 18:10:01,425 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 18:10:01,441 DEBUG: Using selector: SelectSelector
+2022-05-01 18:10:01,598 INFO: Started server process [10224]
+2022-05-01 18:10:01,598 INFO: Waiting for application startup.
+2022-05-01 18:10:01,598 INFO: Application startup complete.
+2022-05-01 18:11:36,824 WARNING: StatReload detected file change in 'ebs\e2w_barcode.py'. Reloading...
+2022-05-01 18:11:46,752 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 18:11:46,863 DEBUG: Using selector: SelectSelector
+2022-05-01 18:11:47,127 INFO: Started server process [6140]
+2022-05-01 18:11:47,128 INFO: Waiting for application startup.
+2022-05-01 18:11:47,135 INFO: Application startup complete.
+2022-05-01 18:11:55,469 INFO: Shutting down
+2022-05-01 18:11:55,579 INFO: Waiting for application shutdown.
+2022-05-01 18:11:55,579 INFO: Application shutdown complete.
+2022-05-01 18:11:55,579 INFO: Finished server process [6140]
+2022-05-01 18:11:55,760 INFO: Stopping reloader process [5432]
+2022-05-01 18:12:18,564 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 18:12:18,566 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 18:12:18,566 INFO: Started reloader process [14044] using statreload
+2022-05-01 18:12:23,042 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 18:12:23,046 DEBUG: Using selector: SelectSelector
+2022-05-01 18:12:23,161 INFO: Started server process [9072]
+2022-05-01 18:12:23,161 INFO: Waiting for application startup.
+2022-05-01 18:12:23,162 INFO: Application startup complete.
+2022-05-01 18:12:42,323 WARNING: StatReload detected file change in 'ebs\e2w_barcode.py'. Reloading...
+2022-05-01 18:13:27,717 INFO: Stopping reloader process [14044]
+2022-05-01 18:14:46,140 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 18:14:46,140 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 18:14:46,140 INFO: Started reloader process [14492] using statreload
+2022-05-01 18:14:49,765 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 18:14:49,767 DEBUG: Using selector: SelectSelector
+2022-05-01 18:14:49,871 INFO: Started server process [5100]
+2022-05-01 18:14:49,871 INFO: Waiting for application startup.
+2022-05-01 18:14:49,871 INFO: Application startup complete.
+2022-05-01 18:15:12,099 ERROR: Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 96, in __call__
+    raise exc from None
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 93, in __call__
+    await self.app(scope, receive, inner_send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\applications.py", line 261, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\py\wmsapi\ebs\main.py", line 19, in e2w_barcode
+    if x_token != secret_token:
+NameError: name 'x_token' is not defined
+2022-05-01 18:17:06,608 INFO: Shutting down
+2022-05-01 18:17:06,744 INFO: Waiting for application shutdown.
+2022-05-01 18:17:06,757 INFO: Application shutdown complete.
+2022-05-01 18:17:06,762 INFO: Finished server process [5100]
+2022-05-01 18:17:06,929 INFO: Stopping reloader process [14492]
+2022-05-01 18:26:25,800 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 18:26:25,802 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 18:26:25,803 INFO: Started reloader process [12664] using statreload
+2022-05-01 18:26:29,490 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 18:26:29,492 DEBUG: Using selector: SelectSelector
+2022-05-01 18:26:29,666 INFO: Started server process [13504]
+2022-05-01 18:26:29,667 INFO: Waiting for application startup.
+2022-05-01 18:26:29,671 INFO: Application startup complete.
+2022-05-01 18:26:46,533 INFO: Shutting down
+2022-05-01 18:26:46,643 INFO: Waiting for application shutdown.
+2022-05-01 18:26:46,675 INFO: Application shutdown complete.
+2022-05-01 18:26:46,675 INFO: Finished server process [13504]
+2022-05-01 18:26:47,880 INFO: Stopping reloader process [12664]
+2022-05-01 18:29:37,125 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 18:29:37,127 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 18:29:37,128 INFO: Started reloader process [1364] using statreload
+2022-05-01 18:29:43,735 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 18:29:43,737 DEBUG: Using selector: SelectSelector
+2022-05-01 18:29:43,832 INFO: Started server process [18144]
+2022-05-01 18:29:43,833 INFO: Waiting for application startup.
+2022-05-01 18:29:43,833 INFO: Application startup complete.
+2022-05-01 18:31:30,961 INFO: Shutting down
+2022-05-01 18:31:31,149 INFO: Waiting for application shutdown.
+2022-05-01 18:31:31,184 INFO: Application shutdown complete.
+2022-05-01 18:31:31,184 INFO: Finished server process [18144]
+2022-05-01 18:31:31,526 INFO: Stopping reloader process [1364]
+2022-05-01 18:31:45,970 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 18:31:45,973 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 18:31:45,974 INFO: Started reloader process [18616] using statreload
+2022-05-01 18:31:56,356 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 18:31:56,358 DEBUG: Using selector: SelectSelector
+2022-05-01 18:31:56,517 INFO: Started server process [12500]
+2022-05-01 18:31:56,518 INFO: Waiting for application startup.
+2022-05-01 18:31:56,519 INFO: Application startup complete.
+2022-05-01 18:32:22,475 ERROR: Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 96, in __call__
+    raise exc from None
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 93, in __call__
+    await self.app(scope, receive, inner_send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\applications.py", line 261, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\py\wmsapi\ebs\main.py", line 22, in e2w_barcode
+    result = e2w_barcode.task_e2w_barcode()
+AttributeError: 'function' object has no attribute 'task_e2w_barcode'
+2022-05-01 18:47:59,035 INFO: Shutting down
+2022-05-01 18:47:59,231 INFO: Waiting for application shutdown.
+2022-05-01 18:47:59,262 INFO: Application shutdown complete.
+2022-05-01 18:47:59,262 INFO: Finished server process [12500]
+2022-05-01 18:48:03,603 INFO: Stopping reloader process [18616]
+2022-05-01 18:50:33,241 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 18:50:33,241 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 18:50:33,241 INFO: Started reloader process [3092] using statreload
+2022-05-01 18:51:31,768 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 18:51:31,771 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 18:51:31,772 INFO: Started reloader process [4016] using statreload
+2022-05-01 18:51:48,649 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 18:51:48,689 DEBUG: Using selector: SelectSelector
+2022-05-01 18:51:48,869 INFO: Started server process [14620]
+2022-05-01 18:51:48,870 INFO: Waiting for application startup.
+2022-05-01 18:51:48,873 INFO: Application startup complete.
+2022-05-01 18:52:35,413 ERROR: Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 96, in __call__
+    raise exc from None
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 93, in __call__
+    await self.app(scope, receive, inner_send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\applications.py", line 261, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\py\wmsapi\ebs\main.py", line 22, in e2w_barcode
+    result = e2w_barcode.get_message()
+AttributeError: 'function' object has no attribute 'get_message'
+2022-05-01 18:53:37,412 INFO: Shutting down
+2022-05-01 18:53:38,056 INFO: Stopping reloader process [4016]
+2022-05-01 18:53:58,292 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 18:53:58,302 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 18:53:58,306 INFO: Started reloader process [1156] using statreload
+2022-05-01 18:54:11,341 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 18:54:11,343 DEBUG: Using selector: SelectSelector
+2022-05-01 18:54:11,619 INFO: Started server process [17900]
+2022-05-01 18:54:11,624 INFO: Waiting for application startup.
+2022-05-01 18:54:11,625 INFO: Application startup complete.
+2022-05-01 18:54:54,937 ERROR: Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 96, in __call__
+    raise exc from None
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 93, in __call__
+    await self.app(scope, receive, inner_send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\applications.py", line 261, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\py\wmsapi\ebs\main.py", line 22, in e2w_barcode
+    result = e2w_barcode.get_message()
+AttributeError: 'function' object has no attribute 'get_message'
+2022-05-01 18:56:57,610 INFO: Shutting down
+2022-05-01 18:56:57,751 INFO: Waiting for application shutdown.
+2022-05-01 18:56:57,829 INFO: Application shutdown complete.
+2022-05-01 18:56:57,847 INFO: Finished server process [17900]
+2022-05-01 18:56:59,399 INFO: Stopping reloader process [1156]
+2022-05-01 18:57:21,533 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 18:57:21,536 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 18:57:21,538 INFO: Started reloader process [11796] using statreload
+2022-05-01 18:57:54,753 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 18:57:54,753 DEBUG: Using selector: SelectSelector
+2022-05-01 18:57:54,879 INFO: Started server process [4968]
+2022-05-01 18:57:54,879 INFO: Waiting for application startup.
+2022-05-01 18:57:54,879 INFO: Application startup complete.
+2022-05-01 18:58:18,674 ERROR: Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 96, in __call__
+    raise exc from None
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 93, in __call__
+    await self.app(scope, receive, inner_send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\applications.py", line 261, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\py\wmsapi\ebs\main.py", line 22, in e2w_barcode
+    result = e2w_barcode.get_message()
+AttributeError: 'function' object has no attribute 'get_message'
+2022-05-01 19:00:20,150 INFO: Shutting down
+2022-05-01 19:00:20,307 INFO: Waiting for application shutdown.
+2022-05-01 19:00:20,312 INFO: Application shutdown complete.
+2022-05-01 19:00:20,317 INFO: Finished server process [4968]
+2022-05-01 19:00:21,438 INFO: Stopping reloader process [11796]
+2022-05-01 19:03:15,485 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 19:03:15,969 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 19:03:16,095 INFO: Started reloader process [15044] using statreload
+2022-05-01 19:03:31,788 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 19:03:31,804 DEBUG: Using selector: SelectSelector
+2022-05-01 19:03:31,957 INFO: Started server process [14916]
+2022-05-01 19:03:31,957 INFO: Waiting for application startup.
+2022-05-01 19:03:31,957 INFO: Application startup complete.
+2022-05-01 19:03:55,771 ERROR: Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 96, in __call__
+    raise exc from None
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 93, in __call__
+    await self.app(scope, receive, inner_send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\applications.py", line 261, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\py\wmsapi\ebs\main.py", line 22, in e2w_barcode
+    result = e2w_barcode.get_message()
+AttributeError: 'function' object has no attribute 'get_message'
+2022-05-01 19:06:46,796 ERROR: Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 96, in __call__
+    raise exc from None
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 93, in __call__
+    await self.app(scope, receive, inner_send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\applications.py", line 261, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\py\wmsapi\ebs\main.py", line 22, in e2w_barcode
+    result = e2w_barcode.get_message()
+AttributeError: 'function' object has no attribute 'get_message'
+2022-05-01 19:06:50,773 ERROR: Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 96, in __call__
+    raise exc from None
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 93, in __call__
+    await self.app(scope, receive, inner_send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\applications.py", line 261, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\py\wmsapi\ebs\main.py", line 22, in e2w_barcode
+    result = e2w_barcode.get_message()
+AttributeError: 'function' object has no attribute 'get_message'
+2022-05-01 19:09:55,018 WARNING: StatReload detected file change in 'ebs\main.py'. Reloading...
+2022-05-01 19:10:18,047 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 19:10:18,092 DEBUG: Using selector: SelectSelector
+2022-05-01 19:10:18,484 INFO: Started server process [16824]
+2022-05-01 19:10:18,484 INFO: Waiting for application startup.
+2022-05-01 19:10:18,484 INFO: Application startup complete.
+2022-05-01 19:10:24,419 INFO: Shutting down
+2022-05-01 19:10:24,528 INFO: Waiting for application shutdown.
+2022-05-01 19:10:24,528 INFO: Application shutdown complete.
+2022-05-01 19:10:24,528 INFO: Finished server process [16824]
+2022-05-01 19:10:25,878 INFO: Stopping reloader process [15044]
+2022-05-01 19:12:11,649 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 19:12:11,649 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 19:12:11,649 INFO: Started reloader process [13284] using statreload
+2022-05-01 19:12:15,495 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 19:12:15,567 DEBUG: Using selector: SelectSelector
+2022-05-01 19:12:15,818 INFO: Started server process [9016]
+2022-05-01 19:12:15,833 INFO: Waiting for application startup.
+2022-05-01 19:12:15,833 INFO: Application startup complete.
+2022-05-01 19:12:33,036 ERROR: Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 96, in __call__
+    raise exc from None
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 93, in __call__
+    await self.app(scope, receive, inner_send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\applications.py", line 261, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\py\wmsapi\ebs\main.py", line 19, in e2w_barcode
+    result = e2w_barcode.get_message()
+AttributeError: 'function' object has no attribute 'get_message'
+2022-05-01 19:18:15,410 INFO: Shutting down
+2022-05-01 19:18:15,740 INFO: Stopping reloader process [13284]
+2022-05-01 19:27:25,351 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 19:27:25,366 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 19:27:25,366 INFO: Started reloader process [18208] using statreload
+2022-05-01 19:27:29,167 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 19:27:29,170 DEBUG: Using selector: SelectSelector
+2022-05-01 19:27:29,346 INFO: Started server process [5620]
+2022-05-01 19:27:29,346 INFO: Waiting for application startup.
+2022-05-01 19:27:29,346 INFO: Application startup complete.
+2022-05-01 19:49:11,902 INFO: Shutting down
+2022-05-01 19:49:12,264 INFO: Waiting for application shutdown.
+2022-05-01 19:49:12,279 INFO: Application shutdown complete.
+2022-05-01 19:49:12,295 INFO: Finished server process [5620]
+2022-05-01 19:49:13,001 INFO: Stopping reloader process [18208]
+2022-05-01 22:17:16,101 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 22:17:16,101 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 22:17:16,101 INFO: Started reloader process [4184] using statreload
+2022-05-01 22:17:20,487 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 22:17:20,616 DEBUG: Using selector: SelectSelector
+2022-05-01 22:17:22,077 INFO: Started server process [7192]
+2022-05-01 22:17:22,077 INFO: Waiting for application startup.
+2022-05-01 22:17:22,077 INFO: Application startup complete.
+2022-05-01 22:18:16,700 INFO: Shutting down
+2022-05-01 22:18:16,810 INFO: Waiting for application shutdown.
+2022-05-01 22:18:16,826 INFO: Application shutdown complete.
+2022-05-01 22:18:16,841 INFO: Finished server process [7192]
+2022-05-01 22:18:17,077 INFO: Stopping reloader process [4184]
+2022-05-01 22:22:52,643 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 22:22:52,658 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 22:22:52,658 INFO: Started reloader process [9300] using statreload
+2022-05-01 22:22:59,030 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 22:22:59,030 DEBUG: Using selector: SelectSelector
+2022-05-01 22:22:59,155 INFO: Started server process [5388]
+2022-05-01 22:22:59,155 INFO: Waiting for application startup.
+2022-05-01 22:22:59,155 INFO: Application startup complete.
+2022-05-01 22:23:26,300 INFO: Shutting down
+2022-05-01 22:23:26,372 INFO: Stopping reloader process [9300]
+2022-05-01 22:24:02,549 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 22:24:02,549 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 22:24:02,549 INFO: Started reloader process [9304] using statreload
+2022-05-01 22:24:05,964 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 22:24:05,980 DEBUG: Using selector: SelectSelector
+2022-05-01 22:24:06,054 INFO: Started server process [7128]
+2022-05-01 22:24:06,058 INFO: Waiting for application startup.
+2022-05-01 22:24:06,058 INFO: Application startup complete.
+2022-05-01 22:24:46,784 ERROR: Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 96, in __call__
+    raise exc from None
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 93, in __call__
+    await self.app(scope, receive, inner_send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\applications.py", line 261, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\py\wmsapi\ebs\main.py", line 20, in e2w_Barcode
+    result = e2w_barcode.task_e2w_barcode()
+  File "C:\py\wmsapi\ebs\e2w_barcode.py", line 58, in task_e2w_barcode
+    message = get_message()
+  File "C:\py\wmsapi\ebs\e2w_barcode.py", line 33, in get_message
+    for row in rows:
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\orm\query.py", line 2896, in __iter__
+    return self._iter().__iter__()
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\orm\query.py", line 2903, in _iter
+    result = self.session.execute(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\orm\session.py", line 1695, in execute
+    conn = self._connection_for_bind(bind)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\orm\session.py", line 1536, in _connection_for_bind
+    return self._transaction._connection_for_bind(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\orm\session.py", line 747, in _connection_for_bind
+    conn = bind.connect()
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\engine\base.py", line 3234, in connect
+    return self._connection_cls(self, close_with_result=close_with_result)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\engine\base.py", line 96, in __init__
+    else engine.raw_connection()
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\engine\base.py", line 3313, in raw_connection
+    return self._wrap_pool_connect(self.pool.connect, _connection)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\engine\base.py", line 3283, in _wrap_pool_connect
+    Connection._handle_dbapi_exception_noconnection(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\engine\base.py", line 2117, in _handle_dbapi_exception_noconnection
+    util.raise_(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\util\compat.py", line 207, in raise_
+    raise exception
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\engine\base.py", line 3280, in _wrap_pool_connect
+    return fn()
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\pool\base.py", line 310, in connect
+    return _ConnectionFairy._checkout(self)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\pool\base.py", line 868, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\pool\base.py", line 476, in checkout
+    rec = pool._do_get()
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\pool\impl.py", line 146, in _do_get
+    self._dec_overflow()
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\util\langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\util\compat.py", line 207, in raise_
+    raise exception
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\pool\impl.py", line 143, in _do_get
+    return self._create_connection()
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\pool\base.py", line 256, in _create_connection
+    return _ConnectionRecord(self)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\pool\base.py", line 371, in __init__
+    self.__connect()
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\pool\base.py", line 666, in __connect
+    pool.logger.debug("Error on connect(): %s", e)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\util\langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\util\compat.py", line 207, in raise_
+    raise exception
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\pool\base.py", line 661, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\engine\create.py", line 590, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\sqlalchemy\engine\default.py", line 597, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+sqlalchemy.exc.DatabaseError: (cx_Oracle.DatabaseError) ORA-12170: TNS:Connect timeout occurred
+(Background on this error at: https://sqlalche.me/e/14/4xp6)
+2022-05-01 22:25:14,219 DEBUG: Starting new HTTP connection (1): 127.0.0.1:8000
+2022-05-01 22:26:01,366 INFO: Stopping reloader process [9304]
+2022-05-01 22:26:06,807 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 22:26:06,807 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 22:26:06,807 INFO: Started reloader process [16788] using statreload
+2022-05-01 22:26:09,809 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 22:26:09,809 DEBUG: Using selector: SelectSelector
+2022-05-01 22:26:09,869 INFO: Started server process [11700]
+2022-05-01 22:26:09,869 INFO: Waiting for application startup.
+2022-05-01 22:26:09,869 INFO: Application startup complete.
+2022-05-01 22:26:30,293 DEBUG: Starting new HTTP connection (1): 127.0.0.1:8000
+2022-05-01 22:29:27,058 INFO: Stopping reloader process [16788]
+2022-05-01 22:29:51,348 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 22:29:51,363 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 22:29:51,363 INFO: Started reloader process [4960] using statreload
+2022-05-01 22:29:54,911 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 22:29:54,911 DEBUG: Using selector: SelectSelector
+2022-05-01 22:29:54,983 INFO: Started server process [14416]
+2022-05-01 22:29:54,983 INFO: Waiting for application startup.
+2022-05-01 22:29:54,983 INFO: Application startup complete.
+2022-05-01 22:30:56,498 INFO: Stopping reloader process [4960]
+2022-05-01 22:30:59,858 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 22:30:59,858 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 22:30:59,858 INFO: Started reloader process [17680] using statreload
+2022-05-01 22:31:05,734 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 22:31:05,748 DEBUG: Using selector: SelectSelector
+2022-05-01 22:31:06,255 INFO: Started server process [900]
+2022-05-01 22:31:06,255 INFO: Waiting for application startup.
+2022-05-01 22:31:06,255 INFO: Application startup complete.
+2022-05-01 22:36:44,783 INFO: Shutting down
+2022-05-01 22:36:44,954 INFO: Stopping reloader process [17680]
+2022-05-01 22:36:49,034 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 22:36:49,034 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 22:36:49,034 INFO: Started reloader process [4084] using statreload
+2022-05-01 22:37:01,384 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 22:37:01,400 DEBUG: Using selector: SelectSelector
+2022-05-01 22:37:01,722 INFO: Started server process [10136]
+2022-05-01 22:37:01,722 INFO: Waiting for application startup.
+2022-05-01 22:37:01,722 INFO: Application startup complete.
+2022-05-01 22:39:19,132 ERROR: Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 366, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 96, in __call__
+    raise exc from None
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\uvicorn\middleware\debug.py", line 93, in __call__
+    await self.app(scope, receive, inner_send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\applications.py", line 261, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 21, in __call__
+    raise e
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 227, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\pito2\anaconda3\envs\wmsapi\lib\site-packages\fastapi\routing.py", line 160, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\py\wmsapi\sium\main.py", line 22, in e2w_barcode
+    result = crud.create_barcode(db, message)
+  File "C:\py\wmsapi\sium\crud.py", line 9, in create_barcode
+    db_check.id_owner = item.id_owner
+AttributeError: 'tuple' object has no attribute 'id_owner'
+2022-05-01 22:49:12,479 INFO: Shutting down
+2022-05-01 22:49:12,635 INFO: Waiting for application shutdown.
+2022-05-01 22:49:12,918 INFO: Stopping reloader process [4084]
+2022-05-01 22:49:17,147 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 22:49:17,162 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 22:49:17,162 INFO: Started reloader process [17328] using statreload
+2022-05-01 22:49:24,885 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 22:49:24,885 DEBUG: Using selector: SelectSelector
+2022-05-01 22:49:25,058 INFO: Started server process [9612]
+2022-05-01 22:49:25,058 INFO: Waiting for application startup.
+2022-05-01 22:49:25,058 INFO: Application startup complete.
+2022-05-01 22:52:16,684 WARNING: StatReload detected file change in 'sium\models.py'. Reloading...
+2022-05-01 22:52:24,476 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 22:52:24,477 DEBUG: Using selector: SelectSelector
+2022-05-01 22:52:24,564 INFO: Started server process [16544]
+2022-05-01 22:52:24,564 INFO: Waiting for application startup.
+2022-05-01 22:52:24,565 INFO: Application startup complete.
+2022-05-01 22:54:13,232 INFO: Shutting down
+2022-05-01 22:54:13,342 INFO: Waiting for application shutdown.
+2022-05-01 22:54:13,342 INFO: Application shutdown complete.
+2022-05-01 22:54:13,342 INFO: Finished server process [16544]
+2022-05-01 22:54:13,672 INFO: Stopping reloader process [17328]
+2022-05-01 22:54:19,651 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 22:54:19,651 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 22:54:19,651 INFO: Started reloader process [12004] using statreload
+2022-05-01 22:54:25,205 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 22:54:25,221 DEBUG: Using selector: SelectSelector
+2022-05-01 22:54:26,939 INFO: Started server process [16108]
+2022-05-01 22:54:26,939 INFO: Waiting for application startup.
+2022-05-01 22:54:26,940 INFO: Application startup complete.
+2022-05-01 22:56:05,311 INFO: Shutting down
+2022-05-01 22:56:05,578 INFO: Stopping reloader process [12004]
+2022-05-01 23:01:21,470 INFO: Will watch for changes in these directories: ['C:\\py\\wmsapi']
+2022-05-01 23:01:21,470 INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2022-05-01 23:01:21,470 INFO: Started reloader process [7276] using statreload
+2022-05-01 23:01:29,146 WARNING: The --reload flag should not be used in production on Windows.
+2022-05-01 23:01:29,146 DEBUG: Using selector: SelectSelector
+2022-05-01 23:01:29,346 INFO: Started server process [10288]
+2022-05-01 23:01:29,346 INFO: Waiting for application startup.
+2022-05-01 23:01:29,346 INFO: Application startup complete.
+2022-05-01 23:04:34,064 INFO: Shutting down
+2022-05-01 23:04:34,189 INFO: Waiting for application shutdown.
+2022-05-01 23:04:34,210 INFO: Application shutdown complete.
+2022-05-01 23:04:34,210 INFO: Finished server process [10288]
+2022-05-01 23:04:35,398 INFO: Stopping reloader process [7276]
