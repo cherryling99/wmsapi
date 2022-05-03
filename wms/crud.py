@@ -3,10 +3,8 @@ import datetime
 from sqlalchemy.orm import Session
 from . import schemas, models
 
-
 def get_check(db: Session, check_id: int):
     return db.query(models.CheckModel).filter(models.CheckModel.id == check_id).first()
-
 
 def create_check(db: Session, chek: schemas.W2eChekModel):
     """

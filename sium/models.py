@@ -3,6 +3,7 @@ from database import Base
 
 class BarcodeModel(Base):
     __tablename__ = "barcode"
+
     id_seq = Column(Integer, primary_key=True, autoincrement=True)
     id_owner = Column(String(20), nullable=False)
     cod_item = Column(String(20), nullable=False, unique = True)

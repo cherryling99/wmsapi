@@ -17,15 +17,12 @@ def get_db():
     finally:
         db.close()
 
-@app.post("/E2W_Barcode/")
-async def e2w_barcode(message: E2wBarcodeModel, db: Session = Depends(get_db)):
+@app.post("/E2S_Barcode/")
+async def e2s_barcode(message: E2wBarcodeModel, db: Session = Depends(get_db)):
+    # result = crud.get_barcode(db, 1)
     result = crud.create_barcode(db, message)
     return result
 
 @app.get("/")
 async def root():
     return {"message": "Hello World"}
-
-
-
-

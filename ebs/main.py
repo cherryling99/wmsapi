@@ -17,7 +17,7 @@ def get_db():
 @app.get("/E2W_Barcode/")
 async def e2w_Barcode():
     result = e2w_barcode.get_message()
-    #result = e2w_barcode.task_e2w_barcode()
+    # result = e2w_barcode.task_e2w_barcode()
     return result
 
 @app.get("/")

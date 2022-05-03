@@ -54,7 +54,7 @@ def get_message():
 
 def task_e2w_barcode():
     wms_url = "http://127.0.0.1:8000/sium"
-    url = wms_url + "/E2W_Barcode/"
+    url = wms_url + "/E2S_Barcode/"
     message = get_message()
     response = post_e2w_barcode(message, url)
     return response

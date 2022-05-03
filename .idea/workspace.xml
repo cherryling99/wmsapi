@@ -5,22 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e29a4548-536d-4ad4-b68b-c4a6560de935" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sium/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sium/crud.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sium/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sium/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sium/schemas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebs/E2W_barcode.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ebs/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ebs/e2w_barcode.py" beforeDir="false" afterPath="$PROJECT_DIR$/ebs/e2w_barcode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ebs/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ebs/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ebs/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ebs/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks/celeryconfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/celeryconfig.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_tasks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wms/schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/wms/schemas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wms/schemas_mulity_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/wms/schemas_mulity_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sium/crud.py" beforeDir="false" afterPath="$PROJECT_DIR$/sium/crud.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sium/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/sium/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sium/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/sium/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sium/schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/sium/schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/crud.py" beforeDir="false" afterPath="$PROJECT_DIR$/wms/crud.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wmsapi.log" beforeDir="false" afterPath="$PROJECT_DIR$/wmsapi.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,18 +43,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/py/fastapi-master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/py/fastapi-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\py\wmsapi" />
@@ -115,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="wmsapi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +120,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sium/models.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sium/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,19 +174,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.crud" />
       <item itemvalue="Python.crud (1)" />
-      <item itemvalue="Python.models" />
       <item itemvalue="Python.schemas" />
       <item itemvalue="Python.run" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.run" />
-        <item itemvalue="Python.models" />
         <item itemvalue="Python.crud" />
-        <item itemvalue="Python.crud (1)" />
         <item itemvalue="Python.schemas" />
+        <item itemvalue="Python.crud (1)" />
+        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +213,9 @@
       <workItem from="1650876278093" duration="2645000" />
       <workItem from="1651020633603" duration="5309000" />
       <workItem from="1651282661265" duration="37870000" />
-      <workItem from="1651373596736" duration="29207000" />
+      <workItem from="1651373596736" duration="29470000" />
+      <workItem from="1651459427096" duration="9239000" />
+      <workItem from="1651540134468" duration="662000" />
     </task>
     <task id="LOCAL-00001" summary="init.">
       <created>1650811350270</created>
@@ -265,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651377134688</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add sium">
+      <created>1651417566897</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651417566897</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,21 +291,22 @@
     <MESSAGE value="security" />
     <MESSAGE value="新增說明影片連結" />
     <MESSAGE value="add erp" />
-    <option name="LAST_COMMIT_MESSAGE" value="add erp" />
+    <MESSAGE value="add sium" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sium" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/wmsapi$schemas.coverage" NAME="schemas Coverage Results" MODIFIED="1651413880455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sium" />
-    <SUITE FILE_PATH="coverage/wmsapi$crud.coverage" NAME="crud Coverage Results" MODIFIED="1651413936855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sium" />
-    <SUITE FILE_PATH="coverage/wmsapi$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1651325648135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mock_wms" />
+    <SUITE FILE_PATH="coverage/wmsapi$schemas.coverage" NAME="schemas Coverage Results" MODIFIED="1651461526181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sium" />
+    <SUITE FILE_PATH="coverage/wmsapi$crud.coverage" NAME="crud Coverage Results" MODIFIED="1651465290557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sium" />
+    <SUITE FILE_PATH="coverage/wmsapi$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1651459825858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sium" />
     <SUITE FILE_PATH="coverage/wmsapi$models.coverage" NAME="models Coverage Results" MODIFIED="1651417232250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sium" />
     <SUITE FILE_PATH="coverage/WmsAPI$.coverage" NAME=" Coverage Results" MODIFIED="1650858183867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/wmsapi$crud__1_.coverage" NAME="crud (1) Coverage Results" MODIFIED="1651413919555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wms" />
-    <SUITE FILE_PATH="coverage/wmsapi$main.coverage" NAME="main Coverage Results" MODIFIED="1651396901236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ebs" />
+    <SUITE FILE_PATH="coverage/wmsapi$crud__1_.coverage" NAME="crud (1) Coverage Results" MODIFIED="1651460065602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wms" />
+    <SUITE FILE_PATH="coverage/wmsapi$main.coverage" NAME="main Coverage Results" MODIFIED="1651459818397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wms" />
     <SUITE FILE_PATH="coverage/wmsapi$conn_oracle.coverage" NAME="conn_oracle Coverage Results" MODIFIED="1651306603573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/wmsapi$e2w_pcom.coverage" NAME="e2w_pcom Coverage Results" MODIFIED="1651327977578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tasks" />
     <SUITE FILE_PATH="coverage/wmsapi$.coverage" NAME=" Coverage Results" MODIFIED="1651377577872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/wmsapi$celeryconfig.coverage" NAME="celeryconfig Coverage Results" MODIFIED="1651374612181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tasks" />
-    <SUITE FILE_PATH="coverage/wmsapi$run.coverage" NAME="run Coverage Results" MODIFIED="1651417277797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wmsapi$run.coverage" NAME="run Coverage Results" MODIFIED="1651540744873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/WmsAPI$e2w_pcom.coverage" NAME="e2w_pcom Coverage Results" MODIFIED="1650858642961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tasks" />
     <SUITE FILE_PATH="coverage/WmsAPI$run.coverage" NAME="run Coverage Results" MODIFIED="1651022855616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/wmsapi$e2w_barcode.coverage" NAME="e2w_barcode Coverage Results" MODIFIED="1651402853614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ebs" />
